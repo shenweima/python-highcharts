@@ -1,4 +1,4 @@
-# -*- coding: UTF-8 -*-
+# -*- coding: utf-8 -*-
 from past.builtins import basestring
 
 from .highchart_types import OptionTypeError, Series, SeriesOptions
