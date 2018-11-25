@@ -454,6 +454,8 @@ class xAxisOptions(BaseOptions):
         "allowDecimals": bool,
         "alternateGridColor": (ColorObject, basestring, dict),
         "categories": list,
+        "autoRotation": list,
+        "autoRotationLimit": int,
         'crosshair': bool,
         "dateTimeLabelFormats": (DateTimeLabelFormats, dict),
         "endOnTick": bool, 
