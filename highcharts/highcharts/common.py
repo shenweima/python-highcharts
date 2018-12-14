@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- coding: UTF-8 -*-
+# -*- coding: utf-8 -*-
 """ Python-Highcharts common.py
 Common Functions For Highcharts
 """

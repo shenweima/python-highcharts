@@ -68,10 +68,12 @@ class Highchart(object):
         # set Javascript src, Highcharts lib needs to make sure it's up to date
         self.JSsource = [
                 'https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js',
-                'https://code.highcharts.com/highcharts.js',
-                'https://code.highcharts.com/highcharts-more.js',
-                'https://code.highcharts.com/modules/heatmap.js',
-                'https://code.highcharts.com/modules/exporting.js'
+                'https://code.highcharts.com/6/highcharts.js',
+                'https://code.highcharts.com/6/modules/export-data.js',
+                'https://code.jquery.com/jquery-3.1.1.min.js',
+                'https://code.highcharts.com/6/highcharts-more.js',
+                'https://code.highcharts.com/6/modules/heatmap.js',
+                'https://code.highcharts.com/6/modules/exporting.js'
             ]
 
         # set CSS src
